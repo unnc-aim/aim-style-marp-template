@@ -1,0 +1,15 @@
+{
+  "cSpell.words": [
+    "AIM",
+    "Archivo",
+    "dirsfirst",
+    "frontmatter",
+    "marp",
+    "marpit",
+    "Noto",
+    "Robotics"
+  ],
+  "markdown.marp.themes": [
+    "themes/aim.css"
+  ]
+}
